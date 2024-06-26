@@ -1,29 +1,36 @@
-# Tiffany Vargas
-img src="![3Generations](https://github.com/knoxtiff/knoxtiff/assets/173424246/2e4f2e5f-9e01-4628-89d1-a60e3fb2c434)"
+# **Tiffany Vargas**
+### *knoxtiff@gmail.com*
+### *(865)684-9811*
+![3Generations](https://github.com/knoxtiff/knoxtiff/assets/173424246/2e4f2e5f-9e01-4628-89d1-a60e3fb2c434)
 
 ## Experience
+1.  Covenant Health - Knoxville Neurology Specialists - *Practice Administrator*
+    - January 2024 - Present
+    - Healthcare operations - Single Site / Multi Provider Practice
+2.  Behavioral Health Group - Tennessee & Georgia Markets - *Director of Operations*
+    - January 2021 - December 2023
+    - Healthcare operations - Multi State / Multi Site / Multi Provider Practices
+3.  Covenant Health - Peninsula Outpatient Clinics - *Manager of Operations*
+    - December 2009 - December 2020
+    - Healthcare operations - Multi Site / Multi Provider Practices 
+
+## Technical Skills
 * JavaScript
 * HTML
 * CSS
-* [Java](https://oracle.com)
+* Git
+* JS.Node
+* PowerBI
+* MS Office Products - Excel, Word, PowerPoint, SharePoint, Visio
 
-1. red
-2. blue
-3. green
 
-# Table
-Color | RGB | Comment
-------|-----|--------
-red | 0xff0000 | don't like it
-blue | 0x00ff00 | kinda like it
-green | 0x0000ff | my color
+## Education
+School | Dates | Location | Degree
+------|------|-------|--------
+Farragut High School | 1996-1999 | Farragut, TN | High School Diploma
+College of Charleston | 1999-2002 | Charleston, SC | BA Corporate Communications
+University of Tennessee | 2024 | Knoxville, TN | Software Engineering Bootcamp
 
-<!---
-karlllarson/karlllarson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 
-go to [oracle](https://oracle.com/)
 
-[website]: https://www.facebook.com/
-
---->
+[Visit My Website](https://oracle.com)
