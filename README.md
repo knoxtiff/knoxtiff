@@ -1,7 +1,7 @@
 # **Tiffany Vargas**
 ### *knoxtiff@gmail.com*
 ### *(865)684-9811*
-![3Generations](https://github.com/knoxtiff/knoxtiff/assets/173424246/2e4f2e5f-9e01-4628-89d1-a60e3fb2c434)
+<img src="https://github.com/knoxtiff/knoxtiff/assets/173424246/e5102965-c521-4a13-8d6e-5f94be7eb3d7" width="250">
 
 ## Experience
 1.  Covenant Health - Knoxville Neurology Specialists - *Practice Administrator*
