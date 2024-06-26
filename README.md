@@ -1,4 +1,4 @@
-# **Tiffany Vargas**
+# ✨**Tiffany Vargas**✨
 ### *knoxtiff@gmail.com*
 ### *(865)684-9811*
 <img src="https://github.com/knoxtiff/knoxtiff/assets/173424246/e5102965-c521-4a13-8d6e-5f94be7eb3d7" width="250">
@@ -30,6 +30,21 @@ School | Dates | Location | Degree
 Farragut High School | 1996-1999 | Farragut, TN | High School Diploma
 College of Charleston | 1999-2002 | Charleston, SC | BA Corporate Communications
 University of Tennessee | 2024 | Knoxville, TN | Software Engineering Bootcamp
+
+
+## Hobbies 
+* *Baking Delicious Treats* ![ChocolateCakeDoubleLayeredCakeGIF](https://github.com/knoxtiff/knoxtiff/assets/173424246/1e14ebc2-b48a-4cf4-b83f-cc7af2abe607)
+
+* *Coaching Girls Youth Softball* ![TomHanksBaseballGIF](https://github.com/knoxtiff/knoxtiff/assets/173424246/ea3baf5a-27f0-47eb-bd44-b79cd35f33ba)
+
+* *Playing Adult Kickball* ![WhenYouTryYourBestButYouDon'TSucceed GIF](https://github.com/knoxtiff/knoxtiff/assets/173424246/6d5ab3e2-907a-418d-8929-194652dcd3c0)
+
+* *Camping / Hammocking / Hiking* ![PeaceCampingGIF](https://github.com/knoxtiff/knoxtiff/assets/173424246/0fb42e07-cfff-4ff7-a430-1cac56976bd7)
+
+* *Kayaking / Any Water Activity* ![TyongeeeEvolGIF](https://github.com/knoxtiff/knoxtiff/assets/173424246/c9b288eb-2303-4314-a6a2-95be5e8c8049)
+
+
+
 
 
 
